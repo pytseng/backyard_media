@@ -5,6 +5,16 @@
  *
  * Made By MaterializeCSS.com
  */
+/*
+color palette
+green light A2D91A
+green dark 338964
+green pale F2F7DE
+grey  light D3D4C8
+grey dark 9DA38F
+black 1D1D1D
+red FF006D
+*/
 nav {
   background-color: rgba(0, 0, 0, 0); }
 
@@ -37,6 +47,10 @@ p {
 @media only screen and (max-width: 600px) {
   #index-banner .section {
     top: 0; } }
+.tableauPlaceholder {
+  margin-top: 10%;
+  margin-bottom: 10%; }
+
 .team_photo {
   margin-top: 10%; }
   .team_photo img {
